@@ -37,7 +37,7 @@
       "localFolder": "file:///D:/wapplerprojects/mdbcweb"
     }
   ],
-  "activeTarget": "Development",
+  "activeTarget": "Local",
   "projectType": "web",
   "npmInstall": true
 }
