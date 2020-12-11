@@ -22,9 +22,6 @@
     }
   ],
   "projectServerModel": "node",
-  "firebaseProjectID": "",
-  "herokuProjectID": "",
-  "gitURL": "",
   "webRootFolder": "/public",
   "useRouting": true,
   "addBase": true,
@@ -33,11 +30,15 @@
     {
       "name": "Development",
       "remoteURL": "http://localhost:3000/",
-      "access": "local",
-      "localFolder": "file:///D:/wapplerprojects/mdbcweb"
+      "access": "ftpes",
+      "ftpServer": "waws-prod-blu-219.ftp.azurewebsites.windows.net",
+      "ftpUser": "mdbcweb\\$mdbcweb",
+      "ftpPassword": "12da92d3e5bbc3fd00e974602db57a60e38ad2a86593238437ed7d1fde7791428b07589de0a0999add630c9fcfa0e77e34970374193014a238a28ae9",
+      "ftpRemoteFolder": "/site/wwwroot"
     }
   ],
   "activeTarget": "Local",
   "projectType": "web",
-  "npmInstall": true
+  "npmInstall": true,
+  "folder": "99cc329f-990e-44a7-b228-d18b89dfb402"
 }
